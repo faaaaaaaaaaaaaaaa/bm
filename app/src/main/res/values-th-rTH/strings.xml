@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">bm</string>
+    <string name="calculater">คำนวณ</string>
+    <string name="weight_kg">น้ำหนัก (กก.)</string>
+    <string name="height_cm">ส่วนสูง(ซม.)</string>
+    <string name="exit">ออก</string>
+    <string name="start">เริ่ม</string>
+</resources>
